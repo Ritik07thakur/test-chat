@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Acme – Modern Single‑File Website</title>
+  <meta name="description" content="A clean, responsive landing page built in one HTML file with vanilla CSS & JS." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='48' fill='%2300a3ff'/%3E%3Ctext x='50' y='60' font-size='48' text-anchor='middle' fill='white' font-family='Arial,Helvetica,sans-serif'%3EA%3C/text%3E%3C/svg%3E"/>
+  <style>
+    :root {
+      --bg: #0b0d12;
+      --card: #11141a;
+      --text: #e7edf6;
+      --muted: #b7c2d0;
+      --accent: #00a3ff;
+      --accent-2: #7c4dff;
+      --ok: #22c55e;
+      --warn: #f59e0b;
+      --danger: #ef4444;
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+      --radius: 16px;
+    }
+    .light {
+      --bg: #f6f8fb;
+      --card: #ffffff;
+      --text: #0b1220;
+      --muted: #475569;
+      --accent: #2563eb;
+      --accent-2: #7c3aed;
+      --shadow: 0 10px 24px rgba(2,6,23,.08);
+    }
+
+    * { box-sizing: border-box }
+    html, body { height: 100% }
+    body {
+      margin: 0;
+      background: radial-gradient(1200px 600px at 90% -10%, rgba(124,77,255,.25), transparent 60%),
+                  radial-gradient(1000px 600px at -10% 10%, rgba(0,163,255,.25), transparent 55%),
+                  var(--bg);
+      color: var(--text);
+      font: 16px/1.6 system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      letter-spacing: .2px;
+    }
+    a { color: var(--accent); text-decoration: none }
+    img { max-width: 100%; display: block }
+
+    /* Layout */
+    .container { width: min(1120px, 92%); margin: 0 auto }
+    header {
+      position: sticky; top: 0; z-index: 50;
+      backdrop-filter: saturate(120%) blur(8px);
+      background: color-mix(in oklab, var(--bg) 80%, transparent);
+      border-bottom: 1px solid color-mix(in oklab, var(--text) 10%, transparent);
+    }
+    .nav { display: flex; align-items: center; justify-content: space-between; padding: 14px 0 }
+    .brand { display: flex; gap: .75rem; align-items: center }
+    .brand-logo {
+      width: 38px; height: 38px; border-radius: 10px;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      display: grid; place-items: center; box-shadow: var(--shadow);
+    }
+    .brand-logo span { font-weight: 800; color: white }
+    .brand h1 { font-size: 1.1rem; margin: 0 }
+
+    .nav-links { display: flex; gap: 1rem; align-items: center }
+    .nav-links a { padding: 8px 10px; border-radius: 10px }
+    .nav-links a:hover { background: color-mix(in oklab, var(--text) 12%, transparent) }
+
+    .hamb { display: none; background: none; border: 0; color: var(--text); font-size: 1.6rem }
+
+    .btn {
+      display: inline-flex; align-items: center; gap: .5rem;
+      padding: .72rem 1rem; border-radius: 999px; border: 1px solid transparent;
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
+      color: white; font-weight: 600; box-shadow: var(--shadow); cursor: pointer
+    }
+    .btn.ghost { background: transparent; color: var(--text); border-color: color-mix(in oklab, var(--text) 18%, transparent) }
+    .btn.ghost:hover { background: color-mix(in oklab, var(--text) 10%, transparent) }
+
+    /* Hero */
+    .hero { padding: clamp(48px, 9vw, 120px) 0 56px; position: relative }
+    .hero-grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: 40px; align-items: center }
+    .kicker { color: var(--accent); font-weight: 700; letter-spacing: .25em; font-size: .8rem }
+    .headline { font-size: clamp(2rem, 6vw, 3.8rem); line-height: 1.1; margin: 10px 0 14px; font-weight: 800 }
+    .sub { color: var(--muted); max-width: 60ch; margin-bottom: 24px }
+
+    .hero-card { background: color-mix(in oklab, var(--card) 95%, transparent); padding: 24px; border-radius: var(--radius); box-shadow: var(--shadow); border: 1px solid color-mix(in oklab, var(--text) 12%, transparent) }
+    .badges { display:flex; gap: .5rem; flex-wrap: wrap; margin-top: 14px }
+    .badge { padding: .35rem .6rem; border-radius: 999px; border:1px solid color-mix(in oklab, var(--text) 15%, transparent); color: var(--muted); font-size: .85rem }
+
+    /* Features */
+    section { padding: 72px 0 }
+    .section-title { text-align:center; margin-bottom: 18px; font-size: clamp(1.4rem, 3.5vw, 2.2rem) }
+    .section-sub { text-align:center; color: var(--muted); margin-bottom: 36px }
+    .grid-3 { display:grid; grid-template-columns: repeat(3,1fr); gap: 22px }
+    .card { background: color-mix(in oklab, var(--card) 95%, transparent); border:1px solid color-mix(in oklab, var(--text) 10%, transparent); border-radius: var(--radius); padding: 22px; box-shadow: var(--shadow) }
+    .icon { width: 44px; height: 44px; border-radius: 12px; display:grid; place-items:center; background: linear-gradient(135deg, color-mix(in oklab, var(--accent) 86%, white), color-mix(in oklab, var(--accent-2) 86%, white)); color:#fff; font-weight: 800 }
+
+    /* Pricing */
+    .pricing { display:grid; grid-template-columns: repeat(3,1fr); gap: 22px }
+    .price-card { position:relative; overflow:clip }
+    .price { font-size: 2.4rem; font-weight: 800; margin: 6px 0 }
+    .pill { position:absolute; top: 16px; right: 16px; background: var(--ok); color:white; padding:.25rem .6rem; border-radius:999px; font-size:.8rem }
+    ul.features { list-style: none; padding: 0; margin: 0 }
+    ul.features li { display:flex; gap:.6rem; align-items:center; margin: 8px 0 }
+    .tick { width: 18px; height: 18px; border-radius: 999px; background: var(--ok); display:inline-grid; place-items:center; color:#fff; font-size:12px }
+
+    /* Testimonials */
+    .testis { display:grid; grid-template-columns: repeat(3,1fr); gap: 22px }
+    .quote { font-style: italic; color: var(--muted) }
+
+    /* FAQ */
+    .faq { max-width: 900px; margin: 0 auto }
+    details { background: color-mix(in oklab, var(--card) 95%, transparent); border:1px solid color-mix(in oklab, var(--text) 10%, transparent); border-radius: 12px; padding: 14px 16px }
+    details + details { margin-top: 10px }
+    summary { cursor: pointer; font-weight: 700 }
+
+    /* CTA */
+    .cta { text-align:center; background:
+      radial-gradient(800px 400px at 10% -10%, rgba(0,163,255,.15), transparent 60%),
+      radial-gradient(800px 400px at 90% 110%, rgba(124,77,255,.15), transparent 60%),
+      color-mix(in oklab, var(--card) 95%, transparent);
+      border: 1px solid color-mix(in oklab, var(--text) 12%, transparent); border-radius: var(--radius);
+      padding: clamp(28px, 6vw, 44px);
+    }
+
+    /* Footer */
+    footer { padding: 40px 0; color: var(--muted) }
+    .footgrid { display:grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 22px }
+    .footgrid a { color: var(--muted) }
+
+    /* Responsive */
+    @media (max-width: 980px) {
+      .hero-grid { grid-template-columns: 1fr }
+      .grid-3, .pricing, .testis, .footgrid { grid-template-columns: 1fr 1fr }
+      .nav-links { display: none }
+      .hamb { display: block }
+    }
+    @media (max-width: 640px) {
+      .grid-3, .pricing, .testis, .footgrid { grid-template-columns: 1fr }
+    }
+
+    /* Utility */
+    .visually-hidden { position:absolute; left:-9999px }
+    .muted { color: var(--muted) }
+    .spacer { height: 8px }
+    .divider { height:1px; background: color-mix(in oklab, var(--text) 10%, transparent); margin: 18px 0 }
+  </style>
+  <script id="chat-init" src="https://cloud.board.support/account/js/init.js?id=1256212597"></script>
+</head>
+<body>
+  <header>
+    <div class="container nav" role="navigation" aria-label="Primary">
+      <a class="brand" href="#home">
+        <div class="brand-logo" aria-hidden="true"><span>A</span></div>
+        <h1>Ritik</h1>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <a href="#features">Features</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#testimonials">Stories</a>
+        <a href="#faq">FAQ</a>
+        <a href="#contact" class="btn ghost" style="margin-left:.5rem">Contact</a>
+      </nav>
+      <button class="hamb" id="hamb" aria-label="Open menu">☰</button>
+    </div>
+  </header>
+
+  <main id="home">
+    <!-- Hero -->
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <div class="kicker">LAUNCH FASTER</div>
+          <h2 class="headline">A modern landing page in <span style="background:linear-gradient(135deg,var(--accent),var(--accent-2)); -webkit-background-clip:text; background-clip:text; color:transparent">one HTML file</span>.</h2>
+          <p class="sub">Copy this file, tweak the text, and you’ve got a crisp, responsive website with a11y‑friendly markup, dark/light mode, smooth scrolling, a mobile menu, and a contact form.</p>
+          <div style="display:flex; gap:.6rem; flex-wrap:wrap">
+            <a class="btn" href="#pricing">Get Started</a>
+            <button class="btn ghost" id="toggleTheme" aria-pressed="false">Toggle Theme</button>
+          </div>
+          <div class="badges">
+            <span class="badge">No frameworks</span>
+            <span class="badge">Semantic HTML</span>
+            <span class="badge">Responsive</span>
+            <span class="badge">Vanilla JS</span>
+          </div>
+        </div>
+        <div class="hero-card" aria-label="Product preview">
+          <img alt="Product dashboard mockup" src="https://images.unsplash.com/photo-1551281044-8c5f0cddfc86?q=80&w=1200&auto=format&fit=crop"/>
+          <div class="spacer"></div>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px">
+            <div class="card"><strong>99.9%</strong><br/><span class="muted">Uptime</span></div>
+            <div class="card"><strong>24/7</strong><br/><span class="muted">Support</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features -->
+    <section id="features">
+      <div class="container">
+        <h3 class="section-title">Everything you need, nothing you don’t</h3>
+        <p class="section-sub">Prebuilt sections you can keep or delete. Edit the text to suit your brand.</p>
+        <div class="grid-3">
+          <div class="card">
+            <div class="icon">⚡</div>
+            <h4>Fast by default</h4>
+            <p class="muted">No heavy libraries. Clean CSS and vanilla JS deliver great Lighthouse scores.</p>
+          </div>
+          <div class="card">
+            <div class="icon">🔒</div>
+            <h4>Best practices</h4>
+            <p class="muted">Accessible markup, focus states, reduced‑motion support, and semantic structure.</p>
+          </div>
+          <div class="card">
+            <div class="icon">🧩</div>
+            <h4>Modular</h4>
+            <p class="muted">Cards, FAQ, pricing, testimonials—drop sections in and out as you like.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Pricing -->
+    <section id="pricing">
+      <div class="container">
+        <h3 class="section-title">Simple, honest pricing</h3>
+        <p class="section-sub">Try it free. Upgrade when you’re ready.</p>
+        <div class="pricing">
+          <article class="card price-card" aria-label="Starter plan">
+            <span class="pill" aria-hidden="true">Free</span>
+            <h4>Starter</h4>
+            <div class="price">$0</div>
+            <p class="muted">For hobby projects and quick tests.</p>
+            <ul class="features">
+              <li><span class="tick">✓</span> 1 project</li>
+              <li><span class="tick">✓</span> Community support</li>
+              <li><span class="tick">✓</span> Basic analytics</li>
+            </ul>
+            <div class="divider"></div>
+            <button class="btn" data-open-modal="#signupModal">Start for free</button>
+          </article>
+
+          <article class="card price-card" aria-label="Pro plan">
+            <span class="pill" style="background:var(--accent)" aria-hidden="true">Popular</span>
+            <h4>Pro</h4>
+            <div class="price">$19<span class="muted" style="font-size:1rem">/mo</span></div>
+            <p class="muted">For freelancers and small teams.</p>
+            <ul class="features">
+              <li><span class="tick">✓</span> Unlimited projects</li>
+              <li><span class="tick">✓</span> Email support</li>
+              <li><span class="tick">✓</span> Advanced analytics</li>
+            </ul>
+            <div class="divider"></div>
+            <button class="btn" data-open-modal="#signupModal">Go Pro</button>
+          </article>
+
+          <article class="card price-card" aria-label="Business plan">
+            <span class="pill" style="background:var(--warn)" aria-hidden="true">Scale</span>
+            <h4>Business</h4>
+            <div class="price">$49<span class="muted" style="font-size:1rem">/mo</span></div>
+            <p class="muted">For growing products.</p>
+            <ul class="features">
+              <li><span class="tick">✓</span> SSO & roles</li>
+              <li><span class="tick">✓</span> Priority support</li>
+              <li><span class="tick">✓</span> Audit logs</li>
+            </ul>
+            <div class="divider"></div>
+            <button class="btn" data-open-modal="#signupModal">Contact sales</button>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section id="testimonials">
+      <div class="container">
+        <h3 class="section-title">Loved by makers</h3>
+        <p class="section-sub">Real words from real users.</p>
+        <div class="testis">
+          <figure class="card">
+            <blockquote class="quote">“I shipped a landing page in under an hour. Beautiful and fast.”</blockquote>
+            <figcaption class="muted">— Priya S., Indie dev</figcaption>
+          </figure>
+          <figure class="card">
+            <blockquote class="quote">“Clean code, zero dependencies. Exactly what I needed.”</blockquote>
+            <figcaption class="muted">— Alex R., Consultant</figcaption>
+          </figure>
+          <figure class="card">
+            <blockquote class="quote">“Accessible out of the box. My clients noticed.”</blockquote>
+            <figcaption class="muted">— Fatima K., Designer</figcaption>
+          </figure>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq">
+      <div class="container faq">
+        <h3 class="section-title">Frequently asked</h3>
+        <details>
+          <summary>Can I use this template commercially?</summary>
+          <div class="muted">Yes. Consider this MIT‑style—use, edit, and ship. A small credit is appreciated but not required.</div>
+        </details>
+        <details>
+          <summary>How do I deploy?</summary>
+          <div class="muted">Drop the file on Netlify, Vercel, GitHub Pages—or host anywhere that serves static files.</div>
+        </details>
+        <details>
+          <summary>Is there a dark mode?</summary>
+          <div class="muted">Yep—toggle it from the hero. It remembers your choice.</div>
+        </details>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+      <div class="container">
+        <div class="cta">
+          <h3>Have a project in mind?</h3>
+          <p class="muted">Send a message and we’ll get back within 24 hours.</p>
+          <form id="contactForm" style="max-width:760px; margin: 18px auto 0; display:grid; grid-template-columns: 1fr 1fr; gap: 12px">
+            <label class="visually-hidden" for="name">Name</label>
+            <input id="name" name="name" placeholder="Your name" required style="padding:12px 14px; border-radius:10px; border:1px solid color-mix(in oklab, var(--text) 12%, transparent); background: var(--card); color: var(--text)"/>
+
+            <label class="visually-hidden" for="email">Email</label>
+            <input id="email" type="email" name="email" placeholder="you@example.com" required style="padding:12px 14px; border-radius:10px; border:1px solid color-mix(in oklab, var(--text) 12%, transparent); background: var(--card); color: var(--text)"/>
+
+            <label class="visually-hidden" for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Tell us about your project..." rows="4" style="grid-column: 1 / -1; padding:12px 14px; border-radius:10px; border:1px solid color-mix(in oklab, var(--text) 12%, transparent); background: var(--card); color: var(--text)" required></textarea>
+
+            <button class="btn" type="submit" style="grid-column: 1 / -1">Send message</button>
+            <p id="formStatus" class="muted" role="status" style="grid-column: 1 / -1; margin:0"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footgrid">
+      <div>
+        <div class="brand" style="margin-bottom:8px">
+          <div class="brand-logo" aria-hidden="true"><span>A</span></div>
+          <strong>Acme</strong>
+        </div>
+        <p class="muted">© <span id="year"></span> Acme Inc. All rights reserved.</p>
+      </div>
+      <div>
+        <strong>Product</strong>
+        <div class="spacer"></div>
+        <a href="#features">Features</a><br/>
+        <a href="#pricing">Pricing</a><br/>
+        <a href="#">Changelog</a>
+      </div>
+      <div>
+        <strong>Company</strong>
+        <div class="spacer"></div>
+        <a href="#">About</a><br/>
+        <a href="#">Careers</a><br/>
+        <a href="#">Press</a>
+      </div>
+      <div>
+        <strong>Legal</strong>
+        <div class="spacer"></div>
+        <a href="#">Privacy</a><br/>
+        <a href="#">Terms</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Modal -->
+  <dialog id="signupModal" style="border:none; border-radius:16px; padding:0; max-width:520px; width: 92%">
+    <form method="dialog" class="card" style="margin:0">
+      <div style="display:flex; align-items:center; justify-content:space-between; gap: 10px">
+        <h4 style="margin:0">Create your account</h4>
+        <button class="btn ghost" value="cancel" aria-label="Close">Close</button>
+      </div>
+      <div class="divider"></div>
+      <label class="visually-hidden" for="em">Email</label>
+      <input id="em" placeholder="you@example.com" type="email" required style="padding:12px 14px; border-radius:10px; border:1px solid color-mix(in oklab, var(--text) 12%, transparent); background: var(--card); color: var(--text); width:100%"/>
+      <div class="spacer"></div>
+      <button class="btn" value="ok">Continue</button>
+    </form>
+  </dialog>
+
+  <script>
+    // Smooth scroll for anchor links
+    document.querySelectorAll('a[href^="#"]').forEach(a => {
+      a.addEventListener('click', e => {
+        const id = a.getAttribute('href');
+        if (id.length > 1) {
+          e.preventDefault();
+          document.querySelector(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          if (window.innerWidth < 980) closeMenu();
+        }
+      });
+    });
+
+    // Mobile nav toggle
+    const hamb = document.getElementById('hamb');
+    const navLinks = document.getElementById('navLinks');
+    hamb.addEventListener('click', () => {
+      const visible = getComputedStyle(navLinks).display !== 'none';
+      if (visible) closeMenu(); else openMenu();
+    });
+    function openMenu(){
+      navLinks.style.display = 'flex';
+      navLinks.style.flexDirection = 'column';
+      navLinks.style.position = 'absolute';
+      navLinks.style.top = '64px';
+      navLinks.style.right = '4%';
+      navLinks.style.padding = '12px';
+      navLinks.style.background = 'var(--card)';
+      navLinks.style.border = '1px solid color-mix(in oklab, var(--text) 12%, transparent)';
+      navLinks.style.borderRadius = '12px';
+      navLinks.style.boxShadow = 'var(--shadow)';
+    }
+    function closeMenu(){ navLinks.style.display = ''; navLinks.removeAttribute('style'); }
+
+    // Theme toggle with persistence
+    const root = document.documentElement;
+    const toggle = document.getElementById('toggleTheme');
+    const storedTheme = localStorage.getItem('theme');
+    if (storedTheme === 'light') root.classList.add('light');
+    toggle.addEventListener('click', () => {
+      root.classList.toggle('light');
+      const isLight = root.classList.contains('light');
+      toggle.setAttribute('aria-pressed', String(isLight));
+      localStorage.setItem('theme', isLight ? 'light' : 'dark');
+    });
+
+    // Contact form (demo): validate + fake send
+    const form = document.getElementById('contactForm');
+    const status = document.getElementById('formStatus');
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      status.textContent = 'Sending…';
+      const data = Object.fromEntries(new FormData(form));
+      // Simulate network
+      await new Promise(r => setTimeout(r, 900));
+      // Very basic validation sample
+      if (!data.name || !data.email || !data.message) {
+        status.textContent = 'Please fill out all fields.';
+        status.style.color = 'var(--danger)';
+        return;
+      }
+      status.textContent = 'Thanks! We\'ll be in touch.';
+      status.style.color = 'var(--ok)';
+      form.reset();
+    });
+
+    // Modal open buttons
+    document.querySelectorAll('[data-open-modal]').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const target = document.querySelector(btn.getAttribute('data-open-modal'));
+        if (target && typeof target.showModal === 'function') target.showModal();
+      });
+    });
+
+    // ESC to close modal (for safety if dialog backdrop missing)
+    const dialog = document.getElementById('signupModal');
+    dialog?.addEventListener('cancel', (e) => { /* prevent default if needed */ });
+
+    // Year in footer
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // Reduce motion respect
+    const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (prefersReduced.matches) {
+      // override smooth scroll if user prefers reduced motion
+      document.documentElement.style.scrollBehavior = 'auto';
+    }
+  </script>
+</body>
+</html>
