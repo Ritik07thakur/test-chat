@@ -1,0 +1,134 @@
+{
+  "name": "Lead Generator to Excel",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "1",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [200, 300]
+    },
+    {
+      "parameters": {
+        "fields": {
+          "field": [
+            {
+              "fieldId": "leadType",
+              "fieldName": "Lead Type",
+              "type": "string"
+            }
+          ]
+        }
+      },
+      "id": "2",
+      "name": "Form Input",
+      "type": "n8n-nodes-base.formTrigger",
+      "typeVersion": 1,
+      "position": [420, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://www.googleapis.com/customsearch/v1",
+        "options": {},
+        "queryParametersUi": {
+          "parameter": [
+            {
+              "name": "key",
+              "value": "YOUR_GOOGLE_API_KEY"
+            },
+            {
+              "name": "cx",
+              "value": "YOUR_CUSTOM_SEARCH_ENGINE_ID"
+            },
+            {
+              "name": "q",
+              "value": "={{$json[\"leadType\"]}} near me"
+            }
+          ]
+        }
+      },
+      "id": "3",
+      "name": "Google Search API",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [660, 300]
+    },
+    {
+      "parameters": {
+        "functionCode": "const results = [];\nfor (const item of items[0].json.items || []) {\n  results.push({\n    name: item.title,\n    website: item.link,\n    description: item.snippet\n  });\n}\nreturn results.map(r => ({ json: r }));"
+      },
+      "id": "4",
+      "name": "Extract Leads",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "options": {
+          "sheetFormat": "xlsx"
+        },
+        "binaryPropertyName": "data",
+        "columns": [
+          "name",
+          "website",
+          "description"
+        ],
+        "fileName": "leads.xlsx"
+      },
+      "id": "5",
+      "name": "Save to Excel",
+      "type": "n8n-nodes-base.spreadsheetFile",
+      "typeVersion": 1,
+      "position": [1140, 300]
+    }
+  ],
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Form Input",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Form Input": {
+      "main": [
+        [
+          {
+            "node": "Google Search API",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Search API": {
+      "main": [
+        [
+          {
+            "node": "Extract Leads",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract Leads": {
+      "main": [
+        [
+          {
+            "node": "Save to Excel",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

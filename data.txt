@@ -1,0 +1,1535 @@
+[
+  {
+    "title": "USA Gym Inc. (@usagyminc)",
+    "url": "https://www.instagram.com/usagyminc/",
+    "displayedUrl": "Instagram › usagyminc",
+    "description": "Hardcore Gym. Established 1986. One-on-One Personal Training, Nutrition and More! www.usagyminc.com",
+    "emphasizedKeywords": [
+      "Hardcore Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "3K+ followers",
+    "channelName": "usagyminc",
+    "type": "organic",
+    "position": 1
+  },
+  {
+    "title": "USA GYM TUJUNGA (@usagym_tujunga) · Los Angeles, CA",
+    "url": "https://www.instagram.com/usagym_tujunga/",
+    "displayedUrl": "Instagram › usagym_tujunga",
+    "description": "The best gym for the best results. 24 hour access, full locker rooms, free weights. Your search for a local gym is over. Join today!",
+    "emphasizedKeywords": [
+      "24 hour access, full locker rooms, free weights"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "280+ followers",
+    "channelName": "usagym_tujunga",
+    "type": "organic",
+    "position": 2
+  },
+  {
+    "title": "10 Best Gyms in the United States. The last one might be the ...",
+    "url": "https://www.instagram.com/reel/DKsOseXv3n7/",
+    "displayedUrl": "Instagram › martfitzh2o",
+    "description": "These are the 10 best gyms in the United States.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "5.9K+ likes",
+    "lastUpdated": "2 months ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 3
+  },
+  {
+    "title": "PRIME Fitness USA (@primefitnessusa)",
+    "url": "https://www.instagram.com/primefitnessusa/",
+    "displayedUrl": "Instagram › primefitnessusa",
+    "description": "•World-Class Strength Equipment •Proudly Made in the USA •Family owned. 1345 15th Street, Franklin, Pennsylvania 16323. linktr.ee/primefitnessusa.",
+    "emphasizedKeywords": [
+      "USA"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "93.6K+ followers",
+    "channelName": "primefitnessusa",
+    "type": "organic",
+    "position": 4
+  },
+  {
+    "title": "TheMuscleFactory from USA | GYM (@tmf_gyms)",
+    "url": "https://www.instagram.com/tmf_gyms/",
+    "displayedUrl": "Instagram › tmf_gyms",
+    "description": "1.5K+ followers · 18 posts · HOME OF CHAMPIONS Hammer Strength, Arsenal Strength, Matrix, Gymleco PRESS @tmf_television SUPPLEMENTS @tmf__nutrition.",
+    "emphasizedKeywords": [
+      "HOME OF CHAMPIONS"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "1.5K+ followers",
+    "channelName": "tmf_gyms",
+    "type": "organic",
+    "position": 5
+  },
+  {
+    "title": "gym80 US (@gym80us)",
+    "url": "https://www.instagram.com/gym80us/",
+    "displayedUrl": "Instagram › gym80us",
+    "description": "Handcrafted strength machines. Made in Germany since 1980. Customize your strength machine. #KingOfMachines #QueensOfMachines #Gym80",
+    "emphasizedKeywords": [
+      "Handcrafted strength machines"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "104.8K+ followers",
+    "channelName": "gym80us",
+    "type": "organic",
+    "position": 6
+  },
+  {
+    "title": "USA HEALTH CLUB ™ (@usahealthclub_)",
+    "url": "https://www.instagram.com/usahealthclub_/",
+    "displayedUrl": "Instagram › usahealthclub_",
+    "description": "It's where greatness lives. It's where legacies are built. And they're built every single day with the best weight, strength training and classes.",
+    "emphasizedKeywords": [
+      "best weight, strength training and classes"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "9.6K+ followers",
+    "channelName": "usahealthclub_",
+    "type": "organic",
+    "position": 7
+  },
+  {
+    "title": "Gymnastics USA (@wearegymnasticsusa)",
+    "url": "https://www.instagram.com/wearegymnasticsusa/",
+    "displayedUrl": "Instagram › wearegymnasticsusa",
+    "description": "We are Gymnastics USA! Our goal is to provide families with an outstanding gymnastics experience! gymnasticsusa.us",
+    "emphasizedKeywords": [
+      "Gymnastics USA"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "13.8K+ followers",
+    "channelName": "wearegymnasticsusa",
+    "type": "organic",
+    "position": 8
+  },
+  {
+    "title": "GRAND SLAM USA (@grandslamusagym)",
+    "url": "https://www.instagram.com/grandslamusagym/",
+    "displayedUrl": "Instagram › grandslamusagym",
+    "description": "GRAND SLAM USA Gym/Physical Fitness Center. Become Your Best Self. 24/7 GYM & PRO SHOP. Bodybuilding - Powerlifting - Weightlifting - Supplements.",
+    "emphasizedKeywords": [
+      "GRAND SLAM USA Gym/Physical Fitness Center"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "4.4K+ followers",
+    "channelName": "grandslamusagym",
+    "type": "organic",
+    "position": 9
+  },
+  {
+    "title": "Gold's Gym (@goldsgym) • Instagram photos and videos",
+    "url": "https://www.instagram.com/goldsgym/",
+    "displayedUrl": "Instagram › goldsgym",
+    "description": "Gym/Physical Fitness Center. The Mecca of Body Building since 1965. #StrongerStartsHere #GoldsGym linktr.ee/goldsgymhq",
+    "emphasizedKeywords": [
+      "Gym/Physical Fitness Center"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "448.4K+ followers",
+    "channelName": "goldsgym",
+    "type": "organic",
+    "position": 10
+  },
+  {
+    "title": "USA GYM on Instagram • Photos and Videos",
+    "url": "https://www.instagram.com/explore/locations/234841502/usa-gym/",
+    "displayedUrl": "https://www.instagram.com › explore › locations › usa-...",
+    "description": "Gym/Physical Fitness Center•780 posts. $$$$•Open 24 hours. Top · Recent · In the area · Morning workout, back and bicep along with a nice run!",
+    "emphasizedKeywords": [
+      "Gym/Physical Fitness Center"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "channelName": "explore",
+    "type": "organic",
+    "position": 11
+  },
+  {
+    "title": "Gymshark (@gymshark) • Instagram photos and videos",
+    "url": "https://www.instagram.com/gymshark/",
+    "displayedUrl": "Instagram › gymshark",
+    "description": "8M followers · 77 following · 1373 posts · @gymshark: “We Do Gym. LIFT:LDN tickets now LIVE ”",
+    "emphasizedKeywords": [
+      "gymshark"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "7.9M+ followers",
+    "channelName": "gymshark",
+    "type": "organic",
+    "position": 12
+  },
+  {
+    "title": "Protraining Equipment USA - Commercial & Home Gym ...",
+    "url": "https://www.instagram.com/protrainingequipmentusa/",
+    "displayedUrl": "Instagram › protrainingequipmentusa",
+    "description": "Your Best Ally in Gym Equipment: Strength, Cardio, Flooring & More Miami | ✈️ USA, Caribbean & LatAm (305) 954-7325 - Let's build your gym!",
+    "emphasizedKeywords": [
+      "305) 954-7325"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "5.6K+ followers",
+    "channelName": "protrainingequipmentusa",
+    "type": "organic",
+    "position": 13
+  },
+  {
+    "title": "KiDsGyM USA (@kidsgymusa) · College Park, GA",
+    "url": "https://www.instagram.com/kidsgymusa/",
+    "displayedUrl": "Instagram › kidsgymusa",
+    "description": "KiDsGyM USA uses gymnastics to help our youth ages 12 Mo.+ build self-confidence, strengthen social skills and develop coordination & fundamentals.",
+    "emphasizedKeywords": [
+      "uses gymnastics to help our youth ages 12 Mo"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "2.5K+ followers",
+    "channelName": "kidsgymusa",
+    "type": "organic",
+    "position": 14
+  },
+  {
+    "title": "USA Gymnastics (@usagym) · Indianapolis, IN",
+    "url": "https://www.instagram.com/usagym/",
+    "displayedUrl": "Instagram › usagym",
+    "description": "National Governing Body of Gymnastics in the United States. 1099 North Meridian Street, Suite 800, Indianapolis, Indiana 46204. usagym.org + 2. Follow.",
+    "emphasizedKeywords": [
+      "United States"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "1.3M+ followers",
+    "channelName": "usagym",
+    "type": "organic",
+    "position": 15
+  },
+  {
+    "title": "12 Rounds Boxing Gym USA (@12rounds_boxing_usa)",
+    "url": "https://www.instagram.com/12rounds_boxing_usa/",
+    "displayedUrl": "Instagram › 12rounds_boxing_usa",
+    "description": "12 Rounds Boxing Gym USA Boxing Studio. Group & Private Boxing Classes for Adults & Kids. 11700 Magnolia Blvd, Valley Village,CA 91607",
+    "emphasizedKeywords": [
+      "Gym USA"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "470+ followers",
+    "channelName": "12rounds_boxing_usa",
+    "type": "organic",
+    "position": 16
+  },
+  {
+    "title": "Action Black Us (@actionblack.us) - Instagram",
+    "url": "https://www.instagram.com/actionblack.us/",
+    "displayedUrl": "Instagram › actionblack.us",
+    "description": "We're the most revolutionary training model. Tribeca NYC. Running, boxing, cycling, strength training and more. 152 Franklin st, New York, New York 10013",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "5.6K+ followers",
+    "channelName": "actionblack.us",
+    "type": "organic",
+    "position": 17
+  },
+  {
+    "title": "World Gym (@worldgyminternational)",
+    "url": "https://www.instagram.com/worldgyminternational/",
+    "displayedUrl": "Instagram › worldgyminternational",
+    "description": "Call us at 850-484-9391 (Lobby hours: Mon–Sat, 6 AM–8 PM) Let's train, grow, and level up—together. Huge shoutout to Ed Fernandez for ...",
+    "emphasizedKeywords": [
+      "Call us at 850-484-9391"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "24.4K+ followers",
+    "channelName": "worldgyminternational",
+    "type": "organic",
+    "position": 18
+  },
+  {
+    "title": "Planet Fitness (@planetfitness) · Hampton, NH",
+    "url": "https://www.instagram.com/planetfitness/",
+    "displayedUrl": "Instagram › planetfitness",
+    "description": "Photo by Planet Fitness on August 12, 2025. May be an image of sports. The gym's our stage and we're all showgirls ❤️‍  .",
+    "emphasizedKeywords": [
+      "Planet Fitness"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "517K+ followers",
+    "channelName": "planetfitness",
+    "type": "organic",
+    "position": 19
+  },
+  {
+    "title": "Elite Gym USA (@elitegymusa) · Milledgeville, GA",
+    "url": "https://www.instagram.com/elitegymusa/",
+    "displayedUrl": "Instagram › elitegymusa",
+    "description": "✨NEW Tumbling Classes will start the 2nd wk of September!!!  ✨ Register online or call the gym!!   #elitegymusa #tumbling #newclass.",
+    "emphasizedKeywords": [
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "930+ followers",
+    "channelName": "elitegymusa",
+    "type": "organic",
+    "position": 20
+  },
+  {
+    "title": "High-Quality Gym Equipment Made in the USA for a Stronger ...",
+    "url": "https://www.instagram.com/reel/DNve75m3EDm/",
+    "displayedUrl": "Instagram › rawmotiveworks",
+    "description": "High Quality Gym Equipment | Made In The USA Payment plans and financing are available! Please DM or email our team.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "60+ likes",
+    "lastUpdated": "3 days ago",
+    "channelName": "reel",
+    "reelLength": "0:34",
+    "type": "organic",
+    "position": 21
+  },
+  {
+    "title": "Officially named USA Today's #1 Best Gym",
+    "url": "https://www.instagram.com/p/DNrFsR2XHVa/",
+    "displayedUrl": "Instagram › otfshermanoaks",
+    "description": "That's a WIN, team. We're beyond proud to be voted USA Today's #1 Best Gym, and we wouldn't be here without every member of our OTF family ( ...",
+    "emphasizedKeywords": [
+      "USA Today's #1 Best Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "10+ likes",
+    "lastUpdated": "4 days ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 22
+  },
+  {
+    "title": "Fusion Gyms (@fusiongyms) - Philadelphia",
+    "url": "https://www.instagram.com/fusiongyms/",
+    "displayedUrl": "Instagram › fusiongyms",
+    "description": "Gym/Physical Fitness Center. 2801 Grant Ave, Philadelphia PA. 179 Lincoln Hwy, Fairless Hills PA. 2425 S 24th St, South Philadelphia PA. 101E County Line Road, ...",
+    "emphasizedKeywords": [
+      "2801 Grant Ave, Philadelphia PA"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "120.7K+ followers",
+    "channelName": "fusiongyms",
+    "type": "organic",
+    "position": 23
+  },
+  {
+    "title": "USA Youth Fitness Center (@usagymaz)",
+    "url": "https://www.instagram.com/usagymaz/",
+    "displayedUrl": "Instagram › usagymaz",
+    "description": "USA Youth Fitness Center Enriching Children's Lives, Developing Good Health Habits For Life! You can find us in Gilbert and Queen Creek!",
+    "emphasizedKeywords": [
+      "USA Youth Fitness Center"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "4.4K+ followers",
+    "channelName": "usagymaz",
+    "type": "organic",
+    "position": 24
+  },
+  {
+    "title": "REAL - Staten Island Gym (@teamrealusa)",
+    "url": "https://www.instagram.com/teamrealusa/",
+    "displayedUrl": "Instagram › teamrealusa",
+    "description": "Gym, Bootcamp, Muay Thai, MMA, Kickboxing, BJJ, Boxing, Weightlifting, Powerlifting ☎️347-979-4955 ↓ more info. 2298 Arthur Kill Rd, New York, New York 10309.",
+    "emphasizedKeywords": [
+      "Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "2.9K+ followers",
+    "channelName": "teamrealusa",
+    "type": "organic",
+    "position": 25
+  },
+  {
+    "title": "OTF Celebrates Being Voted #1 Gym in America by USA Today",
+    "url": "https://www.instagram.com/reel/DNso36p2j6w/",
+    "displayedUrl": "Instagram › otfupperarlington",
+    "description": "USA TODAY named Orangetheory the #1 Gym in America for 2025 — and we're celebrating with a giveaway you can sweat over.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "50+ likes",
+    "lastUpdated": "4 days ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 26
+  },
+  {
+    "title": "Equinox (@equinox) • Instagram photos and videos",
+    "url": "https://www.instagram.com/equinox/",
+    "displayedUrl": "Instagram › equinox",
+    "description": "NYC, start Pride strong. You and a friend are invited to join us at Equinox Greenwich Avenue for exclusive Group ...",
+    "emphasizedKeywords": [
+      "Equinox Greenwich Avenue"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "479.6K+ followers",
+    "channelName": "equinox",
+    "type": "organic",
+    "position": 27
+  },
+  {
+    "title": "🔥 Transform your gym with PRIME Fitness USA! 💪 Our top ...",
+    "url": "https://www.instagram.com/p/DLSBSHSgFJq/",
+    "displayedUrl": "Instagram › primefitnessusa",
+    "description": "Our top-tier, American-made strength equipment is built to last, and we're all about customization for gym owners. Custom color options tailor your setup.",
+    "emphasizedKeywords": [
+      "American-made strength equipment"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "130+ likes",
+    "lastUpdated": "2 months ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 28
+  },
+  {
+    "title": "The Fit Factory – Kolar's 1st U.S.A Concept Gym ...",
+    "url": "https://www.instagram.com/p/DNyR6qd5IpR/",
+    "displayedUrl": "Instagram › thefitfactory_bhopal",
+    "description": "✓ Dedicated Strength & Cardio Zones ✓ Functional Training Area with Battle Ropes, Monkey Bars & More ✓ Professional Trainers & Personalized ...",
+    "emphasizedKeywords": [
+      "Dedicated Strength & Cardio Zones"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "30+ likes",
+    "lastUpdated": "2 days ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 29
+  },
+  {
+    "title": "newtech usa official",
+    "url": "https://www.instagram.com/newtech.usa/",
+    "displayedUrl": "Instagram › newtech.usa",
+    "description": "Our team is hard at work setting up the latest “NewTech” gym equipment to ensure that our athletes have everything they need to perform at their ...",
+    "emphasizedKeywords": [
+      "“NewTech” gym equipment"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "17.4K+ followers",
+    "channelName": "newtech.usa",
+    "type": "organic",
+    "position": 30
+  },
+  {
+    "title": "Discover Why Orangetheory Was Voted #1 Gym in America ...",
+    "url": "https://www.instagram.com/reel/DNrPVSm0kGw/",
+    "displayedUrl": "Instagram › otfworthington",
+    "description": "WE DID IT! USA TODAY named Orangetheory the #1 Gym in America for 2025 — and we're celebrating with a giveaway you can sweat over.",
+    "emphasizedKeywords": [
+      "Orangetheory the #1 Gym in America for 2025"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "40+ likes",
+    "lastUpdated": "4 days ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 31
+  },
+  {
+    "title": "Jay's Gym on Instagram • Photos and Videos",
+    "url": "https://www.instagram.com/explore/locations/194289631/jays-gym/",
+    "displayedUrl": "https://www.instagram.com › locations › jays-gym",
+    "description": "Gym/Physical Fitness Center•103 posts. $$$$•Closed. +1 281-257-6565 · Top · Recent · In the area · A little sneak peak of my workout with @jaysgymusa!",
+    "emphasizedKeywords": [
+      "Gym/Physical Fitness Center"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "channelName": "explore",
+    "type": "organic",
+    "position": 32
+  },
+  {
+    "title": "USA Today's #1 Gym: Celebrating Our Members' Success",
+    "url": "https://www.instagram.com/reel/DNtPCRC4vDb/",
+    "displayedUrl": "Instagram › otfeastislip",
+    "description": "Big news, BIGGER love for our members! Thanks to YOU, we've been voted USA Today's #1 Gym",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "50+ likes",
+    "lastUpdated": "3 days ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 33
+  },
+  {
+    "title": "USA Today's #1 Best Gym: OTF Nation's Pride",
+    "url": "https://www.instagram.com/p/DNrIYUC5I-f/",
+    "displayedUrl": "Instagram › otfdowntownsunnyvale",
+    "description": "Hey OTF Nation, #1looks good on onyou. Officially named USA Today's #1 Best Gym. Thankyou you for being part something bigger - let's keep ...",
+    "emphasizedKeywords": [
+      "Officially named USA Today's #1 Best Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "5 likes",
+    "lastUpdated": "4 days ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 34
+  },
+  {
+    "title": "USA Today Chooses Orangetheory as #1 Gym in America for ...",
+    "url": "https://www.instagram.com/reel/DNsfBFOO95g/",
+    "displayedUrl": "Instagram › otf_rockyriver",
+    "description": "USA TODAY named Orangetheory the #1 Gym in America for 2025 - and we're celebrating with a giveaway you can sweat over.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "30+ likes",
+    "lastUpdated": "4 days ago",
+    "channelName": "reel",
+    "reelLength": "0:27",
+    "type": "organic",
+    "position": 35
+  },
+  {
+    "title": "Jesse James West on Instagram: \"$1 vs $10M Gyms New YT ...",
+    "url": "https://www.instagram.com/reel/DLfZhKvMgAE/",
+    "displayedUrl": "Instagram › jessejameswest",
+    "description": "$1 vs $10M Gyms New YT video going to the craziest gyms in America. From $1 all the way to $10 million dollars. YT: “Jesse James West”.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "15K+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "reelLength": "0:39",
+    "type": "organic",
+    "position": 36
+  },
+  {
+    "title": "USA Today's #1 Gym in America: Win a Free Performance ...",
+    "url": "https://www.instagram.com/reel/DNsmALDXKmP/",
+    "displayedUrl": "Instagram › otflewiscenter",
+    "description": "USA TODAY named Orangetheory the #1 Gym in America for 2025 — and we're celebrating with a giveaway you can sweat over.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "50+ likes",
+    "lastUpdated": "4 days ago",
+    "channelName": "reel",
+    "reelLength": "0:50",
+    "type": "organic",
+    "position": 37
+  },
+  {
+    "title": "Join the #1 Best Gym in USA for a Fun-Filled Day!",
+    "url": "https://www.instagram.com/p/DNoMUMHRkjC/",
+    "displayedUrl": "Instagram › otf_astoria",
+    "description": "Join us all day On Saturday, August 23rd for snacks, goodies, and fun. Plus, every class will have a raffle for $25 in Studio Bucks-don' don't ...",
+    "emphasizedKeywords": [
+      "snacks, goodies, and fun"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "70+ likes",
+    "lastUpdated": "5 days ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 38
+  },
+  {
+    "title": "OTF Nation Celebrates USA Today's #1 Best Gym Award",
+    "url": "https://www.instagram.com/p/DNrFse03DLC/",
+    "displayedUrl": "Instagram › otfmissionpark",
+    "description": "We're beyond proud to be voted USA Today's #1 Best Gym, and we wouldn't be here without every member of our OTF family (yes, you). We already ...",
+    "emphasizedKeywords": [
+      "USA Today's #1 Best Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "4 likes",
+    "lastUpdated": "4 days ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 39
+  },
+  {
+    "title": "Thanks for celebrating being voted the USA Today #1 Gym ...",
+    "url": "https://www.instagram.com/p/DNvuB_wYhLE/",
+    "displayedUrl": "Instagram › orangetheoryfitnesscanton",
+    "description": "We're thrilled to be the USA Today #1 Best Gym and we can't wait to celebrate with you this Saturday, August 23rd We'll have raffles, ...",
+    "emphasizedKeywords": [
+      "USA Today #1 Best Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "10+ likes",
+    "lastUpdated": "3 days ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 40
+  },
+  {
+    "title": "Import Gym Equipment from the USA with Savo Store",
+    "url": "https://www.instagram.com/reel/DNtRrUF2Jse/",
+    "displayedUrl": "Instagram › savostore",
+    "description": "0 likes, 0 comments - savostore on August 23, 2025: \"   Level up your Fitness Game by Importing from the US Dreaming of your own home gym?",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "3 days ago",
+    "channelName": "reel",
+    "reelLength": "0:40",
+    "type": "organic",
+    "position": 41
+  },
+  {
+    "title": "That's a WIN, team. We're beyond proud to be voted USA ...",
+    "url": "https://www.instagram.com/p/DL5JmcqMHu9/",
+    "displayedUrl": "Instagram › orangetheory",
+    "description": "4880 likes, 185 comments - orangetheory on July 9, 2025: \"That's a WIN, team. We're beyond proud to be voted USA Today's #1 Best Gym, ...",
+    "emphasizedKeywords": [
+      "USA",
+      "Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "4.9K+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 42
+  },
+  {
+    "title": "#fitness #fitnessmotivation #gym #usa #montreal",
+    "url": "https://www.instagram.com/reel/DM5hR48ugn8/",
+    "displayedUrl": "Instagram › austin.offf",
+    "description": "austin.offf on August 3, 2025: \"#fitness #fitnessmotivation #gym #usa #montreal\".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "5 likes",
+    "lastUpdated": "3 weeks ago",
+    "channelName": "reel",
+    "reelLength": "0:25",
+    "type": "organic",
+    "position": 43
+  },
+  {
+    "title": "USA Today's #1 Best Gym: Experience the OTF Difference",
+    "url": "https://www.instagram.com/reel/DL5kKi0udAi/",
+    "displayedUrl": "Instagram › otf.hilltop",
+    "description": "We're beyond proud to be voted USA Today's #1 Best Gym, and we wouldn't be here without every member of our OTF family (yes, you).",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "130+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "reelLength": "0:53",
+    "type": "organic",
+    "position": 44
+  },
+  {
+    "title": "TAG USA Gymnastics | TODAY!!! Join us for Open Gym! AGES ...",
+    "url": "https://www.instagram.com/reel/DEsPYC3BXyt/",
+    "displayedUrl": "Instagram › taggymnasticsfl",
+    "description": "Join us for Open Gym! AGES 5 & OLDER! Enjoy access to bars, beams, trampolines, tumble tracks, soccer, basketball, and rope swings! Plus, grab some snacks ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "5 likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "reelLength": "0:15",
+    "type": "organic",
+    "position": 45
+  },
+  {
+    "title": "Joey Swoll (@joeyswoll) • Instagram photos and videos",
+    "url": "https://www.instagram.com/joeyswoll/",
+    "displayedUrl": "Instagram › joeyswoll",
+    "description": "5M Followers, 1034 Following, 2369 Posts - Joey Swoll (@joeyswoll) on Instagram: \"CEO of GYM POSITIVITY Owner: @taste_flavorco COACHING: ...",
+    "emphasizedKeywords": [
+      "GYM"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "5.5M+ followers",
+    "channelName": "joeyswoll",
+    "type": "organic",
+    "position": 46
+  },
+  {
+    "title": "Celebrate with Us: Join the Top-Rated Gym in the USA This ...",
+    "url": "https://www.instagram.com/reel/DNmGdb4OPJW/",
+    "displayedUrl": "Instagram › otfmaplewood",
+    "description": "36 likes, 1 comments - otfmaplewood on August 20, 2025: \"Every Saturday is a party… but this one is extra special! We're USA Today's #1 ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "30+ likes",
+    "lastUpdated": "6 days ago",
+    "channelName": "reel",
+    "reelLength": "0:07",
+    "type": "organic",
+    "position": 47
+  },
+  {
+    "title": "This is the most expensive gym in the US, at a price tag of ...",
+    "url": "https://www.instagram.com/reel/DFVbNuDv5u0/",
+    "displayedUrl": "Instagram › jakeheyen",
+    "description": "Here's what you get: 1️⃣ You pay a $10,000 initiation fee and start an onboarding assessment. 2️⃣ This includes a VO2 max test, blood panels, body ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "4.3K+ likes",
+    "lastUpdated": "7 months ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 48
+  },
+  {
+    "title": "prime fitness usa amravati",
+    "url": "https://www.instagram.com/prime_fitness_usa_amravati/",
+    "displayedUrl": "Instagram › prime_fitness_usa_amravati",
+    "description": "Gym / Physical / Fitness Centre / Yoga / Zumba / Etc. Contact number. = 8087911903 Address=Shankar Nagar near jawarkar clinic OWNER = RAJ SAHU ONLY.",
+    "emphasizedKeywords": [
+      "Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "850+ followers",
+    "channelName": "prime_fitness_usa_amravati",
+    "type": "organic",
+    "position": 49
+  },
+  {
+    "title": "USA Today's #1 gym! Come be a part of it. #otfharrisonburg",
+    "url": "https://www.instagram.com/p/DL5TQGWggp6/",
+    "displayedUrl": "Instagram › otfharrisonburg",
+    "description": "USA Today's #1 gym! Come be a part of it. #otfharrisonburg ... Photo by Orangetheory Harrisonburg on August 25, 2025. May be an image of 11.",
+    "emphasizedKeywords": [
+      "USA",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "4 likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 50
+  },
+  {
+    "title": "Mes premières routines depuis les championnats des États-Unis",
+    "url": "https://www.instagram.com/donnell_whittenburg/reel/DN1lpdsXjL8/",
+    "displayedUrl": "Instagram › donnell_whittenburg",
+    "description": "First Routine since U.S. Champs ‍  , more to clean up but glad I got one under my belt !!! #gym #gymnastics #motivation #inspiration #fitness # ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "1.5K+ likes",
+    "lastUpdated": "17 hours ago",
+    "channelName": "donnell_whittenburg",
+    "type": "organic",
+    "position": 51
+  },
+  {
+    "title": "24 Hour Fitness (@24hourfitness)",
+    "url": "https://www.instagram.com/24hourfitness/",
+    "displayedUrl": "Instagram › 24hourfitness",
+    "description": "⬇️ Grab your 3-day pass! www.24hourfitness.com/membership/free-guest-gym-pass/?pass=CLUBPASS&adb_id=ORG_INT_ACQ_META-012025 ... usa's profile picture. nocco.usa.",
+    "emphasizedKeywords": [
+      "gym",
+      "usa's",
+      "usa"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "108.7K+ followers",
+    "channelName": "24hourfitness",
+    "type": "organic",
+    "position": 52
+  },
+  {
+    "title": "I think these are the top 3 gyms in the USA based on size ...",
+    "url": "https://www.instagram.com/reel/Cr8w5CCOs3l/",
+    "displayedUrl": "Instagram › martfitzh2o",
+    "description": "... gym #workout #fitness #fitnesmotivation # ... I think these are the top 3 gyms in the USA based on size, equipment and legacy!",
+    "emphasizedKeywords": [
+      "gym",
+      "gyms",
+      "USA"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "14K+ likes",
+    "lastUpdated": "2 years ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 53
+  },
+  {
+    "title": "#Gym #ironparadise #workout #MAHA #usa #mindfucked ...",
+    "url": "https://www.instagram.com/reel/DM8FZX-Rbsq/",
+    "displayedUrl": "Instagram › capotostokell",
+    "description": "Thegymgivesyou The gym gives you energy, but you need energy to get to the gym. Feels like a pyramid scheme if you ask me.",
+    "emphasizedKeywords": [
+      "gym",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "2 likes",
+    "lastUpdated": "3 weeks ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 54
+  },
+  {
+    "title": "HORSE GYM USA® (@horsegymusa)",
+    "url": "https://www.instagram.com/horsegymusa/",
+    "displayedUrl": "Instagram › horsegymusa",
+    "description": "Horse Gym USA is headed to the west coast! To schedule your service visit, please contact service@horsegym.com or by phone at 561–204-2199 ext 2.",
+    "emphasizedKeywords": [
+      "Gym USA"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "2.7K+ followers",
+    "channelName": "horsegymusa",
+    "type": "organic",
+    "position": 55
+  },
+  {
+    "title": "FABIO | A little bit about our gym 👊🏼 #frteam #usa #orlando ...",
+    "url": "https://www.instagram.com/reel/CvOiYOlgXQ0/",
+    "displayedUrl": "Instagram › fabinrosa",
+    "description": "396 likes, 75 comments - fabinrosa on July 27, 2023: \"A little bit about our gym #frteam #usa #orlando #florida #original #riodejaneiro #barradatijuca ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "https://www.instagram.com",
+    "lastUpdated": "Jul 27, 2023",
+    "channelName": "reel",
+    "reelLength": "5:28",
+    "type": "organic",
+    "position": 56
+  },
+  {
+    "title": "Andi Tatani | 😳… @anditatani . . . . . . . . . # ...",
+    "url": "https://www.instagram.com/reel/DLfcPZKtABL/",
+    "displayedUrl": "Instagram › anditatani",
+    "description": "2978 likes, 32 comments - anditatani on June 29, 2025: \"  … @anditatani . . . . . . . . . #reels #reelsinstagram #usa #viral #trend #gym ...",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "3.4K+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 57
+  },
+  {
+    "title": "We're beyond proud to be voted USA Today's #1 Best Gym ...",
+    "url": "https://www.instagram.com/p/DNYGc8aNKYA/",
+    "displayedUrl": "Instagram › otfportage",
+    "description": "Orangetheory FEST Best #1BestOom-USATodayReerhoeA #1BestGym Gym USA Today Readers' Choice Awards We're officially America's s #1 Best Gym.",
+    "emphasizedKeywords": [
+      "Gym USA",
+      "Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "30+ likes",
+    "lastUpdated": "1 week ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 58
+  },
+  {
+    "title": "At Palm beach Boxing gym USA. 1. Building confidence 2 ...",
+    "url": "https://www.instagram.com/reel/DLy7sfTtUV2/",
+    "displayedUrl": "Instagram › ashira_oure_bxg_club",
+    "description": "43 likes, 0 comments - ashira_oure_bxg_club on July 6, 2025: \"At Palm beach Boxing gym USA. 1. Building confidence 2. Enhancing skills 3.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "40+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "reelLength": "0:20",
+    "type": "organic",
+    "position": 59
+  },
+  {
+    "title": "Staying On Track Whilst Abroad #usa #chicago #fitness #gym",
+    "url": "https://www.instagram.com/eoghanschlindwein/reel/DMs5pi3OSvu/",
+    "displayedUrl": "Instagram › eoghanschlindwein",
+    "description": "61 likes, 3 comments - eoghanschlindwein on July 29, 2025: \"Staying On Track Whilst Abroad #usa #chicago #fitness #gym\".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "60+ likes",
+    "lastUpdated": "4 weeks ago",
+    "channelName": "eoghanschlindwein",
+    "reelLength": "0:52",
+    "type": "organic",
+    "position": 60
+  },
+  {
+    "title": "Getting going in the USA Gym : @boniiia #volleyball ...",
+    "url": "https://www.instagram.com/reel/DKa6NJlxwUl/",
+    "displayedUrl": "Instagram › masonsbriggs",
+    "description": "24K likes, 50 comments - masonsbriggs on June 2, 2025: \"Getting going in the USA Gym : @boniiia #volleyball #volleyballplayer #sports ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "24.1K+ likes",
+    "lastUpdated": "2 months ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 61
+  },
+  {
+    "title": "¡Celebrando al mejor gimnasio de USA! 🏋️‍♀️",
+    "url": "https://www.instagram.com/reel/DNtQozjXAYL/",
+    "displayedUrl": "Instagram › orangetheoryftl",
+    "description": "Fresh Orangetheory FEST #1Best #1 Best Gym USA Today Readers' Choice Awards . IN mi FL CO LED CON co NDI D NAD PAUS ል Norma ለው.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "50+ likes",
+    "lastUpdated": "3 days ago",
+    "channelName": "reel",
+    "reelLength": "1:13",
+    "type": "organic",
+    "position": 62
+  },
+  {
+    "title": "First throws with 800g went smooth🚀 . . . . . #javelin #sports ...",
+    "url": "https://www.instagram.com/reel/DGyaCY0IiIt/",
+    "displayedUrl": "Instagram › simon.scmt",
+    "description": "234 likes, 9 comments - simon.scmt on March 4, 2025: \"First throws with 800g went smooth   . . . . . #javelin #sports #india #usa #gym ...",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "230+ likes",
+    "lastUpdated": "5 months ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 63
+  },
+  {
+    "title": "Chris Howard's Gym: Supporting Youth Fitness with ...",
+    "url": "https://www.instagram.com/reel/DNjwgPYIuJ6/",
+    "displayedUrl": "Instagram › hoopplanet_usa",
+    "description": "Pop in. Check on my man Chris Howard Pivot Life in here doing his thing. Got one of the best workout gyms in the area for the youth. Man, ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "10+ likes",
+    "lastUpdated": "1 week ago",
+    "channelName": "reel",
+    "reelLength": "1:49",
+    "type": "organic",
+    "position": 64
+  },
+  {
+    "title": "Alex Diab on Instagram: \"Starting 2024 off strong ...",
+    "url": "https://www.instagram.com/reel/C1wyx-zOmDd/",
+    "displayedUrl": "Instagram › alexdiab34",
+    "description": "... gym #instagood #art #calisthenics #gymnastics #strength #control #rings #photography #travel #training #usa #workout #workoutmotivation\".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "1.4K+ likes",
+    "lastUpdated": "1 year ago",
+    "channelName": "reel",
+    "reelLength": "0:17",
+    "type": "organic",
+    "position": 65
+  },
+  {
+    "title": "Morning movement in Montréal #Canada #usa #urban # ...",
+    "url": "https://www.instagram.com/reel/DNHP5DvOpDj/",
+    "displayedUrl": "Instagram › wade__cooper",
+    "description": "wade__cooper on August 8, 2025: \"Morning movement in Montréal #Canada #usa #urban #gym #sponsor #hoka #fitness #college #roadtrip #travel\".",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "60+ likes",
+    "lastUpdated": "2 weeks ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 66
+  },
+  {
+    "title": "Elite Gym USA Enrolls Kids for Cheerios Classes on ...",
+    "url": "https://www.instagram.com/p/DN0lyqYYrye/",
+    "displayedUrl": "Instagram › elitegymusa",
+    "description": "elite NEW GYM USA CLASS! Cheer CHEERIOS Thursdays 5-6pT Class begins September 4th! Cheerreading. pom poms. chants. cartwheets & more!",
+    "emphasizedKeywords": [
+      "GYM USA"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "4 likes",
+    "lastUpdated": "1 day ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 67
+  },
+  {
+    "title": "Orangetheory Élevé à #1 Meilleur Gym aux États-Unis par ...",
+    "url": "https://www.instagram.com/otfeastvale/reel/DNtII7HWu2U/",
+    "displayedUrl": "Instagram › otfeastvale",
+    "description": "... us up with the cutest treats to celebrate Orangetheory being named USA Today's #1 Best Gym in America Check her page out!  \".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "30+ likes",
+    "lastUpdated": "4 days ago",
+    "channelName": "otfeastvale",
+    "reelLength": "0:47",
+    "type": "organic",
+    "position": 68
+  },
+  {
+    "title": "Join Our Community Celebration: USA Today's #1 Best Gym",
+    "url": "https://www.instagram.com/otfeastislip/reel/DNa4cCGxA8l/",
+    "displayedUrl": "Instagram › otfeastislip",
+    "description": "55 likes, 2 comments - otfeastislip on August 16, 2025: \"     We're throwing a BIG party to celebrate OTF being named USA Today's #1 Best Gym ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "50+ likes",
+    "lastUpdated": "1 week ago",
+    "channelName": "otfeastislip",
+    "reelLength": "0:47",
+    "type": "organic",
+    "position": 69
+  },
+  {
+    "title": "Throwin it “Back” Jay Cutler and myself “2009” USA gym. ...",
+    "url": "https://www.instagram.com/p/DMSpU77MPF8/",
+    "displayedUrl": "Instagram › melchancey316",
+    "description": "860 likes, 38 comments - melchancey316 on July 19, 2025: \"Throwin it “Back” Jay Cutler and myself “2009” USA gym. Love for the Iron created ...",
+    "emphasizedKeywords": [
+      "USA gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "860+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 70
+  },
+  {
+    "title": "Rocking Questionable Wigs But Still USA Today's #1 Best Gym",
+    "url": "https://www.instagram.com/reel/DNWHPQDvBYn/",
+    "displayedUrl": "Instagram › otfeastislip",
+    "description": "51 likes, 1 comments - otfeastislip on August 14, 2025: \"POV: You're rocking questionable wigs but still USA Today's #1 Best Gym ✨ #1gym ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "50+ likes",
+    "lastUpdated": "1 week ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 71
+  },
+  {
+    "title": "Andi Tatani | No?😅⛱️ @anditatani . . . . . . . . . #reels ...",
+    "url": "https://www.instagram.com/reel/DLxdcvKtmQw/",
+    "displayedUrl": "Instagram › anditatani",
+    "description": "1320 likes, 7 comments - anditatani on July 6, 2025: \"No?  ⛱️ @anditatani . . . . . . . . . #reels #reelsinstagram #usa #viral #trend #gym ...",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "1.3K+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 72
+  },
+  {
+    "title": "Fitness and good vibes 😎 #usa #miami #influencer #fitness ...",
+    "url": "https://www.instagram.com/p/Cx3KSR2u2uK/",
+    "displayedUrl": "Instagram › saul_savagefit_rivera",
+    "description": "120 likes, 12 comments - saul_savagefit_rivera on October 1, 2023: \"Fitness and good vibes #usa #miami #influencer #fitness #motivation #gym ...",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "120+ likes",
+    "lastUpdated": "1 year ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 73
+  },
+  {
+    "title": "We did it, OTF Nation! USA Today's #1 Best Gym for 2025",
+    "url": "https://www.instagram.com/p/DL6GM_YI7Lq/",
+    "displayedUrl": "Instagram › otftownandcountry",
+    "description": "We did it, OTF Nation! USA Today's #1 Best Gym for 2025 — because #1 looks good on you. Let's keep crushing it together! #OTF #MoreLife.",
+    "emphasizedKeywords": [
+      "USA",
+      "Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "9 likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 74
+  },
+  {
+    "title": "#anatoly #gym #anatolyprank #bodybuilding #usa",
+    "url": "https://www.instagram.com/reel/DNx90wqWFeY/",
+    "displayedUrl": "Instagram › anatolyfunpage1",
+    "description": "419 likes, 3 comments - anatolyfunpage1 on August 25, 2025: \"#anatoly #gym #anatolyprank #bodybuilding #usa\".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "430+ likes",
+    "lastUpdated": "2 days ago",
+    "channelName": "reel",
+    "reelLength": "0:47",
+    "type": "organic",
+    "position": 75
+  },
+  {
+    "title": "Thanks for celebrating being voted the USA Today #1 Gym ...",
+    "url": "https://www.instagram.com/p/DNvt5dj3GQ0/",
+    "displayedUrl": "Instagram › otf_dearborn",
+    "description": "29 likes, 0 comments - otf_dearborn on August 24, 2025: \"Thanks for celebrating being voted the USA Today #1 Gym with us!!      \".",
+    "emphasizedKeywords": [
+      "USA",
+      "Gym",
+      "us"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "20+ likes",
+    "lastUpdated": "3 days ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 76
+  },
+  {
+    "title": "Challenge yourself everyday. #gym #fitness #workout ...",
+    "url": "https://www.instagram.com/reel/DMHIc--sFf7/",
+    "displayedUrl": "Instagram › muradhattar.pt",
+    "description": "20 likes, 0 comments - muradhattar.pt on July 14, 2025: \"Challenge yourself everyday. #gym #fitness #workout #challenge #usa #amman\".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "20+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "reelLength": "0:08",
+    "type": "organic",
+    "position": 77
+  },
+  {
+    "title": "Kickstart Your Fitness Journey with USA Gym Equipment",
+    "url": "https://www.instagram.com/reel/DNA-0n5z5V_/",
+    "displayedUrl": "Instagram › _xsportonfitness",
+    "description": "_xsportonfitness on August 6, 2025: \"New Gym Setup. @neogen_rtk Start Your Gym Business with The Most Premium USA Gym Equipment.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "310+ likes",
+    "lastUpdated": "3 weeks ago",
+    "channelName": "reel",
+    "reelLength": "0:32",
+    "type": "organic",
+    "position": 78
+  },
+  {
+    "title": "HS Pro Belt Squad Machine By @intowellness_india ...",
+    "url": "https://www.instagram.com/p/DBIprnyKa7C/",
+    "displayedUrl": "Instagram › vaishalibhoirs",
+    "description": "... usa - - - - - - #equpment #gym #beltsquat #bodybuilding #athlete #strong #machine #athlete #instagood #instagram #womenempowerment ...",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "4.1K+ likes",
+    "lastUpdated": "10 months ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 79
+  },
+  {
+    "title": "Protraining Equipment USA - Commercial & Home Gym ...",
+    "url": "https://www.instagram.com/reel/DMGNjABRvih/",
+    "displayedUrl": "Instagram › protrainingequipmentusa",
+    "description": "234 likes, 0 comments - protrainingequipmentusa on July 14, 2025: \"   Your gym deserves more than just machines.⁣ It needs power, style, ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "230+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "reelLength": "0:30",
+    "type": "organic",
+    "position": 80
+  },
+  {
+    "title": "Fav workout 💚 #usa #fitness #gym #explorepage",
+    "url": "https://www.instagram.com/reel/DMsh_0vxi17/",
+    "displayedUrl": "Instagram › selenaxbrock",
+    "description": "35 likes, 3 comments - selenaxbrock on July 29, 2025: \"Fav workout #usa #fitness #gym #explorepage\".",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "30+ likes",
+    "lastUpdated": "4 weeks ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 81
+  },
+  {
+    "title": "️ @anditatani . . . . . . . . . #reels #reelsinstagram #usa # ...",
+    "url": "https://www.instagram.com/reel/DKhpufPNYkj/",
+    "displayedUrl": "Instagram › anditatani",
+    "description": "125K likes, 319 comments - anditatani on June 5, 2025: \"  … ➡️ @anditatani . . . . . . . . . #reels #reelsinstagram #usa #viral #trend #gym ...",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "168.8K+ likes",
+    "lastUpdated": "2 months ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 82
+  },
+  {
+    "title": "Andi Tatani | 🫤… @anditatani . . . . . . . . . #reels # ...",
+    "url": "https://www.instagram.com/reel/DLnLfuDNAyV/",
+    "displayedUrl": "Instagram › anditatani",
+    "description": "1563 likes, 19 comments - anditatani on July 2, 2025: \"  … @anditatani . . . . . . . . . #reels #reelsinstagram #usa #viral #trend #gym ...",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "1.6K+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 83
+  },
+  {
+    "title": "Strengthen Your Core with Intense Gym Workouts like a Pro",
+    "url": "https://www.instagram.com/reel/DMNZruexG8p/",
+    "displayedUrl": "Instagram › talyadavidoff",
+    "description": "... gym today! . #athlete #weightlifting #gym #gymrat #croatia #southafrica #usa #turkey #muscle #progress #motivation #freediving #army ...",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "100+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "reel",
+    "reelLength": "1:00",
+    "type": "organic",
+    "position": 84
+  },
+  {
+    "title": "You can be a fashionista at the gym too @lskd.usa @lskd ...",
+    "url": "https://www.instagram.com/reel/DNoWj11R2dL/",
+    "displayedUrl": "Instagram › hailey.munger",
+    "description": "hailey.munger on August 21, 2025: \"You can be a fashionista at the gym too   @lskd.usa @lskd #gymfits #fitspo #fitgirl\".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "20+ likes",
+    "lastUpdated": "5 days ago",
+    "channelName": "reel",
+    "reelLength": "0:06",
+    "type": "organic",
+    "position": 85
+  },
+  {
+    "title": "Wouldn't be a good gym session without a good gym set You ...",
+    "url": "https://www.instagram.com/reel/DNTjF6ESdQ4/",
+    "displayedUrl": "Instagram › alexsirek",
+    "description": "... 't be a good gym session without a good gym set ✨ You can shop this set in Blue Atoll now at @lskd.usa #LSKD #USA\".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "230+ likes",
+    "lastUpdated": "1 week ago",
+    "channelName": "reel",
+    "reelLength": "0:12",
+    "type": "organic",
+    "position": 86
+  },
+  {
+    "title": "Final workout of the USA tour completed at ...",
+    "url": "https://www.instagram.com/p/C9A0XtWR11u/",
+    "displayedUrl": "Instagram › tylerjohnson_ifbb",
+    "description": "1278 likes, 37 comments - tylerjohnson_ifbb on July 4, 2024: \"Final workout of the USA tour completed at @revive.gym capped it off by ...",
+    "emphasizedKeywords": [
+      "USA",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "1.3K+ likes",
+    "lastUpdated": "1 year ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 87
+  },
+  {
+    "title": "Hot boy winter 😂😂😂 #winter #florida #miami #gym #usa ...",
+    "url": "https://www.instagram.com/p/C1MxtpALvPN/",
+    "displayedUrl": "Instagram › ishmaelmauziofficial",
+    "description": "145 likes, 6 comments - ishmaelmauziofficial on December 23, 2023: \"Hot boy winter #winter #florida #miami #gym #usa #travel #vacation ...",
+    "emphasizedKeywords": [
+      "gym",
+      "usa"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "140+ likes",
+    "lastUpdated": "1 year ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 88
+  },
+  {
+    "title": "𝗔𝘁 𝗣𝗿𝗼𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗘𝗾𝘂𝗶𝗽𝗺𝗲𝗻𝘁 𝗨𝗦𝗔, 𝘄𝗲 𝘁𝗮𝗸𝗲 ...",
+    "url": "https://www.instagram.com/p/DMbd0abvZ7w/",
+    "displayedUrl": "Instagram › protrainingequipmentusa",
+    "description": "252 likes, 4 comments - protrainingequipmentusa on July 22, 2025: \"At Protraining Equipment USA, we take gyms to the next level.",
+    "emphasizedKeywords": [
+      "USA",
+      "gyms"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "250+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 89
+  },
+  {
+    "title": "Rock Fitness Miramar: Expert Gym Design and Training ...",
+    "url": "https://www.instagram.com/reel/DNYeuwAR2qG/",
+    "displayedUrl": "Instagram › protrainingequipmentusa",
+    "description": "... MUSCLE ENGINEERING. protrainingequipmentusa. •. Follow. Photo by Protraining Equipment USA - Commercial & Home Gym Equipment on August 21, 2025.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "60+ likes",
+    "lastUpdated": "1 week ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 90
+  },
+  {
+    "title": "Your English teacher and your gym teachers' favorite ...",
+    "url": "https://www.instagram.com/p/DN1LI0yZMN0/",
+    "displayedUrl": "Instagram › barebells.usa",
+    "description": "1918 likes, 47 comments - barebells.usa on August 26, 2025: \"Your English teacher and your gym teachers' favorite protein bars are getting ...",
+    "emphasizedKeywords": [
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "1.9K+ likes",
+    "lastUpdated": "21 hours ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 91
+  },
+  {
+    "title": "PRoTRAINING EQUIPMENT USA: MEETING THE NEEDS OF ...",
+    "url": "https://www.instagram.com/reel/DNp_qsex7Yz/",
+    "displayedUrl": "Instagram › protrainingequipmentusa",
+    "description": "Photo by Protraining Equipment USA - Commercial & Home Gym Equipment on July 24, 2025.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "10+ likes",
+    "lastUpdated": "5 days ago",
+    "channelName": "reel",
+    "reelLength": "0:33",
+    "type": "organic",
+    "position": 92
+  },
+  {
+    "title": "Orangetheory Égare la Concurrence avec le N° 1 Gyms ...",
+    "url": "https://www.instagram.com/reel/DNslyrKXBrW/-we-did-it-usa-today-named-orangetheory-the-1-gym-in-america-for-2025-and-were-c/",
+    "displayedUrl": "https://www.instagram.com › reel › DNslyrKXBrW ›",
+    "description": "4 days ago — 23 likes, 4 comments - otf_lakewood_oh on August 23, 2025: \"   WE DID IT!! USA TODAY named Orangetheory the #1 Gym in America for 2025-and ...",
+    "date": "2025-08-23T17:19:39.142Z",
+    "emphasizedKeywords": [
+      "USA",
+      "Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "channelName": "reel",
+    "type": "organic",
+    "position": 93
+  },
+  {
+    "title": "Handy Gym USA 🇺🇸 (@handygym.us)",
+    "url": "https://www.instagram.com/handygym.us/",
+    "displayedUrl": "Instagram › handygym.us",
+    "description": "Official Partner. Welcome to the future of training! 100% Portable Flywheel Technology Premium #strengthtraining. Shop Online. www.handygymfit.com. Follow.",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "followersAmount": "1K+ followers",
+    "channelName": "handygym.us",
+    "type": "organic",
+    "position": 94
+  },
+  {
+    "title": "Jumpin Gym USA",
+    "url": "https://www.instagram.com/explore/locations/755998997/jumpin-gym-usa/",
+    "displayedUrl": "https://www.instagram.com › explore › locations › jum...",
+    "description": "Instagram. Log in · Open app. Jumpin Gym U.S.A. Gym/Physical Fitness Center•4 posts. Opens in 45 minutes. +852 2324 7796 · Top · Recent · In the area · いとこの ...",
+    "emphasizedKeywords": [
+      "Gym U.S.A",
+      "Gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "channelName": "explore",
+    "type": "organic",
+    "position": 95
+  },
+  {
+    "title": "Stay Fueled ⛽️ ⚡️ Mack x @nocco.usa = CRAZY GAINS ! ...",
+    "url": "https://www.instagram.com/p/DLnMvvkpZXm/",
+    "displayedUrl": "Instagram › mackmusclefit",
+    "description": "mackmusclefit on July 2, 2025: \"Stay Fueled ⛽️ ⚡️ Mack x @nocco.usa = CRAZY GAINS ! #gym #fitness #exercise #training #workout #gym\".",
+    "emphasizedKeywords": [
+      "usa",
+      "gym",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "110+ likes",
+    "lastUpdated": "1 month ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 96
+  },
+  {
+    "title": "Gym & Beach day🏋🏽‍♀️🏝️☀️ #usa #florida ...",
+    "url": "https://www.instagram.com/reel/DNKYHrBMc3t/",
+    "displayedUrl": "Instagram › lea_voracova",
+    "description": "83 likes, 0 comments - lea_voracova on August 9, 2025: \"Gym & Beach day    ‍♀️🏝️☀️ #usa #florida #gym #gymgirl #fitness #healtylife #beach ...",
+    "emphasizedKeywords": [
+      "Gym",
+      "usa",
+      "gym"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "80+ likes",
+    "lastUpdated": "2 weeks ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 97
+  },
+  {
+    "title": "Orangetheory Knapp's Crossing Celebrates Being ...",
+    "url": "https://www.instagram.com/p/DNncvq8gbM5/",
+    "displayedUrl": "Instagram › otfknappscrossing",
+    "description": "#1 #1 BEST+ 三 GY GYM Μ पੇ 2025 We got voted #1- now nowlet's let's celebrate the win together! #1Best Gym USA Today Readers' ChoiceAwards ...",
+    "emphasizedKeywords": [
+      "GYM",
+      "Gym USA"
+    ],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "10+ likes",
+    "lastUpdated": "6 days ago",
+    "channelName": "p",
+    "type": "organic",
+    "position": 98
+    
+  },
+  {
+    "title": "#meditation #yummy #yogajourney #usa #canada #australia ...",
+    "url": "https://www.instagram.com/reel/DNQv-37OLhE/",
+    "displayedUrl": "Instagram › noush.mz",
+    "description": "61 likes, 12 comments - noush.mz on August 12, 2025: \"#meditation #yummy #yogajourney #usa #canada #australia #gym #workout #ﬁtness #food\".",
+    "emphasizedKeywords": [],
+    "siteLinks": [],
+    "productInfo": {},
+    "likes": "60+ likes",
+    "lastUpdated": "2 weeks ago",
+    "channelName": "reel",
+    "type": "organic",
+    "position": 98
+  }
+]
